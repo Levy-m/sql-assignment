@@ -1,0 +1,1 @@
+UPDATE students SET technical_mentor = 'Charles' WHERE id BETWEEN 1 AND 27;
