@@ -1,0 +1,1 @@
+ALTER TABLE students RENAME COLUMN phone_number TO mobile_number;
