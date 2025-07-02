@@ -1,0 +1,1 @@
+UPDATE students SET mobile_number = '123-456-7890' WHERE id = 1;

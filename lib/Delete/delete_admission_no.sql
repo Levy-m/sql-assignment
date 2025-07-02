@@ -1,0 +1,1 @@
+ALTER TABLE students DROP COLUMN admission_no;
