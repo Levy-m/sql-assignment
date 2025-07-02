@@ -1,1 +1,1 @@
-ALTER TABLE students DROP COLUMN admission_no;
+ALTER TABLE students DROP COLUMN admission_number;
